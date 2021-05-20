@@ -1,6 +1,4 @@
-# Detection-and-Counting-of-Wheat-Heads-Under-Various-Image-Conditions-Source-Locations
-
-### By: Jonathan Rasmussen
+# Detection and Counting of Wheat Heads Under Various Image Conditions For Optimal Harvesting Throughput
 
 ## Description of the Problem
 
